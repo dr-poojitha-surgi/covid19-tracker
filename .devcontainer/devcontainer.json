@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "GitHub.github-vscode-theme",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer",
+    "stylelint.vscode-stylelint",
+    "rangav.vscode-thunder-client"
+    // Additional Extensions Here
+  ],
+  "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
+}

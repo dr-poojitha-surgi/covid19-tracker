@@ -7,4 +7,11 @@ A responsive and interactive COVID-19 tracker built using **HTML**, **CSS**, and
 [🔗 Click here to view the live site](https://dr-poojitha-surgi.github.io/covid19-tracker)
 
 
-[Link to the public API](https://disease.sh/docs/#/COVID-19%3A%20Worldometers/get_v3_covid_19_all)
+## 📊 Data Source
+
+This project uses real-time COVID-19 data provided by the [disease.sh API](https://disease.sh/docs/#/COVID-19%3A%20Worldometers/get_v3_covid_19_all).
+
+**Reference:**
+
+disease.sh. (n.d.). *COVID-19 API documentation (v3)*. NovelCOVID API by disease.sh. Retrieved July 24, 2025, from https://disease.sh/docs/#/COVID-19%3A%20Worldometers/get_v3_covid_19_all
+
